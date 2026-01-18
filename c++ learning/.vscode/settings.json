@@ -1,0 +1,6 @@
+{
+    "accessibility.signalOptions.debouncePositionChanges": false,
+    "git.alwaysSignOff": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autofetch": false
+}
